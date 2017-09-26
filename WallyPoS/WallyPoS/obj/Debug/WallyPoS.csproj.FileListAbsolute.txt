@@ -1,0 +1,32 @@
+C:\Users\jmar8\Desktop\JMWally\WallyPoS\WallyPoS\bin\Debug\WallyPoS.exe.config
+C:\Users\jmar8\Desktop\JMWally\WallyPoS\WallyPoS\bin\Debug\WallyPoS.exe
+C:\Users\jmar8\Desktop\JMWally\WallyPoS\WallyPoS\bin\Debug\WallyPoS.pdb
+C:\Users\jmar8\Desktop\JMWally\WallyPoS\WallyPoS\bin\Debug\MySql.Data.dll
+C:\Users\jmar8\Desktop\JMWally\WallyPoS\WallyPoS\bin\Debug\MySql.Data.xml
+C:\Users\jmar8\Desktop\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.csprojResolveAssemblyReference.cache
+C:\Users\jmar8\Desktop\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.AddNewCustomer.resources
+C:\Users\jmar8\Desktop\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.FindExistingCustomer.resources
+C:\Users\jmar8\Desktop\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.NewOrExistingCustomer.resources
+C:\Users\jmar8\Desktop\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.PoS.resources
+C:\Users\jmar8\Desktop\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.Properties.Resources.resources
+C:\Users\jmar8\Desktop\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.SalesRecord.resources
+C:\Users\jmar8\Desktop\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.SelectACustomer.resources
+C:\Users\jmar8\Desktop\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.csproj.GenerateResource.Cache
+C:\Users\jmar8\Desktop\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.exe
+C:\Users\jmar8\Desktop\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.pdb
+C:\Users\jmar8\Desktop\School Projects\JMWally\WallyPoS\WallyPoS\bin\Debug\WallyPoS.exe.config
+C:\Users\jmar8\Desktop\School Projects\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.exe
+C:\Users\jmar8\Desktop\School Projects\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.pdb
+C:\Users\jmar8\Desktop\School Projects\JMWally\WallyPoS\WallyPoS\bin\Debug\WallyPoS.exe
+C:\Users\jmar8\Desktop\School Projects\JMWally\WallyPoS\WallyPoS\bin\Debug\WallyPoS.pdb
+C:\Users\jmar8\Desktop\School Projects\JMWally\WallyPoS\WallyPoS\bin\Debug\MySql.Data.dll
+C:\Users\jmar8\Desktop\School Projects\JMWally\WallyPoS\WallyPoS\bin\Debug\MySql.Data.xml
+C:\Users\jmar8\Desktop\School Projects\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.csprojResolveAssemblyReference.cache
+C:\Users\jmar8\Desktop\School Projects\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.AddNewCustomer.resources
+C:\Users\jmar8\Desktop\School Projects\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.FindExistingCustomer.resources
+C:\Users\jmar8\Desktop\School Projects\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.NewOrExistingCustomer.resources
+C:\Users\jmar8\Desktop\School Projects\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.PoS.resources
+C:\Users\jmar8\Desktop\School Projects\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.Properties.Resources.resources
+C:\Users\jmar8\Desktop\School Projects\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.SalesRecord.resources
+C:\Users\jmar8\Desktop\School Projects\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.SelectACustomer.resources
+C:\Users\jmar8\Desktop\School Projects\JMWally\WallyPoS\WallyPoS\obj\Debug\WallyPoS.csproj.GenerateResource.Cache
